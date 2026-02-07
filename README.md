@@ -157,6 +157,4 @@ This project is optimized for Vercel deployment.
 4.  Add Environment Variables (`MONGO_URI`, `JWT_SECRET`, etc.) in Vercel settings.
 5.  Deploy!
 
-## 🤝 Contribution
 
-Contributions are welcome! Please fork the repository and open a pull request.
