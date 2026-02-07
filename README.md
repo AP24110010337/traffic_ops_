@@ -133,6 +133,20 @@ Traffic-Ops is a modern traffic violation management system built with the MERN 
     - Server: [http://localhost:5000](http://localhost:5000)
     - Client: [http://localhost:5173](http://localhost:5173)
 
+5. **🔐 Login Credentials**
+
+   #### 👨‍💼 Admin
+   - **Email:** admin@traffic.com
+   - **Password:** AdminPassword!23
+
+   #### 👮 Officer
+   - **Email:** officer@traffic.com
+   - **Password:** OfficerSecure#45
+
+   #### 🧑‍🤝‍🧑 Citizen
+   - **Email:** citizen@traffic.com
+   - **Password:** CitizenSafe$78
+
 ## 📦 Deployment (Vercel)
 
 This project is optimized for Vercel deployment.
